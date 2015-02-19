@@ -1,4 +1,4 @@
-hierarchical_motion
+Hierarchical motion analysis.
 ===========
 
 Matlab code for hierarchical motion analysis.
